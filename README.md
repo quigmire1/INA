@@ -1,1 +1,1 @@
-# INA
+# Image-based Network Analysis
